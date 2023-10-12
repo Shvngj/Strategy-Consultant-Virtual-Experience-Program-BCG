@@ -7,9 +7,8 @@ This programme approaches a real world problem statement for a Strategy and Tech
 - Data Analysis
 - Understanding consumer needs
 - Client Recommendation
-- Getting alignment
 
-### skills used
+### Skills used
 * Data Gathering
 * Financial Modelling
 * Business Judgement
