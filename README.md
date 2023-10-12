@@ -2,7 +2,7 @@
 This repository contains the files for my BCG Strategy Consulting Virtual Experience Program.
 
 ## Project Description
-This programme approaches a real world proble statement for a Strategy and Technology Consultant Role including:
+This programme approaches a real world problem statement for a Strategy and Technology Consultant Role including:
 - Market Research
 - Data Analysis
 - Understanding consumer needs
